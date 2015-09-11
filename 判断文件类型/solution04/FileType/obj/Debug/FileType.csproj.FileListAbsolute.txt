@@ -1,0 +1,6 @@
+D:\判断文件类型\solution04\FileType\bin\Debug\FileType.exe.config
+D:\判断文件类型\solution04\FileType\bin\Debug\FileType.exe
+D:\判断文件类型\solution04\FileType\bin\Debug\FileType.pdb
+D:\判断文件类型\solution04\FileType\obj\Debug\FileType.csprojResolveAssemblyReference.cache
+D:\判断文件类型\solution04\FileType\obj\Debug\FileType.exe
+D:\判断文件类型\solution04\FileType\obj\Debug\FileType.pdb
